@@ -383,7 +383,6 @@ a {
 
 .client-icon {
 	display: block;
-	margin: 0 auto;
 }
 
 .client-link:hover,
@@ -402,11 +401,11 @@ a {
 
 .footer-container {
 	display: flex;
+	align-items: baseline;
 }
 
 .footer-social {
-	margin-top: 12px;
-	padding-left: 70px;
+	margin-left: 70px;
 }
 
 .footer-logo {
